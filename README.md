@@ -31,3 +31,13 @@ It fetches real-time weather data using an API and displays it in a clean, respo
 
 ---
 
+
+## ▶️ How to Run
+1. Clone the repository:
+   ```bash
+  git clone https://github.com/your-username/weather-app.git
+
+
+ 📜 License
+
+This project is licensed under the MIT License – feel free to use and modify it.

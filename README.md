@@ -21,7 +21,7 @@ It fetches real-time weather data using an API and displays it in a clean, respo
 - Responsive design for desktop and mobile 📱💻
 - Simple and clean UI 🎨
 
----
+----
 
 ## 🛠️ Technologies Used
 - **HTML5**  

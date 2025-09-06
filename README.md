@@ -13,7 +13,7 @@ It fetches real-time weather data using an API and displays it in a clean, respo
 └── 📝 README.md # Project documentation
 
 
----
+----
 
 ## 🚀 Features
 - Search weather by city name 🌍
